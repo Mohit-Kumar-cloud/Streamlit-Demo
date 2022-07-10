@@ -3,9 +3,9 @@
 
 ## Project Structure
 .  
-|__ Motor_Vehicle_Collisions_-_Crashes.csv
-|__ app.py
-|__ requirements.txt
+|__ Motor_Vehicle_Collisions_-_Crashes.csv  
+|__ app.py  
+|__ requirements.txt  
 
 ## Getting Started
 
